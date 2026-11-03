@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Kareem's Soft Drinks Website
 
-# Run and deploy your AI Studio app
+Yeh Kareem's drinks website ka source project hai. Isay apne computer par dekhne ke liye Node.js install hona chahiye.
 
-This contains everything you need to run your app locally.
+## Website chalane ka tareeqa
 
-View your app in AI Studio: https://ai.studio/apps/2d115f74-53e3-48ed-a074-9c87861c3373
+Project folder mein terminal khol kar yeh commands chalayein:
 
-## Run Locally
+```powershell
+npm install
+npm run dev
+```
 
-**Prerequisites:**  Node.js
+Phir browser mein [http://localhost:3000](http://localhost:3000) kholein. Website band karne ke liye terminal mein `Ctrl+C` dabayein.
 
+## Asaan Project Guide
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Website ke sections, files, text/products/images update karne ka tareeqa, aur aam sawalon ke jawab ke liye [Developer Guide](./DEVELOPER_GUIDE.md) dekhein. Yeh guide non-technical readers ke liye simple Roman Urdu mein likhi gayi hai.
