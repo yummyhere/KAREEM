@@ -1,0 +1,6 @@
+{
+  "name": "Kareem's Limca & Milk Soda",
+  "description": "Fresh, chilled Limca, ice cream milk sodas, and dairy shakes famous in Rahim Yar Khan, Pakistan. Prepared fresh and served ice cold.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
